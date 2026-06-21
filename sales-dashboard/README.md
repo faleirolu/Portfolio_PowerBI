@@ -1,7 +1,7 @@
 # Dashboard de Vendas
 Projeto desenvolvido em Power BI para análise de faturamento, volume de vendas, desempenho de marcas e distribuição geográfica.
 
-### Indicadores:
+### Principais Análises:
 - Faturamento Total
 - Quantidade Vendida
 - Produto Mais Vendido

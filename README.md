@@ -1,5 +1,5 @@
 # Portfólio Power BI
-Coleção de dashboards desenvolvidos em Power BI para análise de dados e geração de insights.
+Coleção de dashboards desenvolvidos durante minha jornada de aprendizado em Power BI, aplicando conceitos de modelagem de dados, DAX e visualização de indicadores.
 
 ## Projetos
 
